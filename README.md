@@ -1,8 +1,5 @@
 # Procedimientos de Búsqueda Local Aplicados a Problemas de Secuenciación de Máquinas
-## Julio Mario Daza-Escorcia1, David Álvarez Martinez2
-1 jm.dazae@uniandes.edu.co
-2 d.alvarezm@uniandes.edu.co
-
+## Julio Mario Daza-Escorcia [jm.dazae@uniandes.edu.co], David Álvarez Martinez [d.alvarezm@uniandes.edu.co]
 Universidad de los Andes
 Carrera 1 Este No. 19A – 40, Bogotá, Colombia
 
